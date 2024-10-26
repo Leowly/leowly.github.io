@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Leowly空
-github_username: Leowly
-x_username: Leowly233
+weibo_username:7769084443
+github_username:Leowly
+x_username:Leowly233
 #facebook_username:Leowly
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -88,6 +88,6 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+# friends:
   [
   ]
